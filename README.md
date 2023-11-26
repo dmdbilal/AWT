@@ -19,8 +19,7 @@ This Android app, built with Kotlin and Jetpack Compose, provides personalized c
 
 The web service for crop recommendations is powered by [Agro Weather Tip](https://github.com/dmdbilal/Agro-Weather-Tip). Ensure that the web service is set up and running before using the app.
 
-Enjoy using the Crop Recommendation App! 🌾📱
+## Screenshots
 
-| ![Home]() | ![Get Crop](link_to_screenshot_2) |
-|---------------------------------------|---------------------------------------|
-| Caption for Screenshot 1               | Caption for Screenshot 2               |
+| ![Home](https://github.com/dmdbilal/Agro_Weather_Tip/assets/91405690/03f03977-f661-4c18-972e-3735e7417b44) | ![Get Crop](https://github.com/dmdbilal/Agro_Weather_Tip/assets/91405690/9edb0241-7ad8-4f7a-8a1e-732b0f687d93) | ![Top Crop](https://github.com/dmdbilal/Agro_Weather_Tip/assets/91405690/48c82461-1a57-489c-b130-0196a2461479) | ![Top Crops](https://github.com/dmdbilal/Agro_Weather_Tip/assets/91405690/2b0f9627-0c44-4be2-a5c0-b4ab75a55b33) |
+|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|
