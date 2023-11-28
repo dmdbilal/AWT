@@ -8,6 +8,11 @@ This Android app, built with Kotlin and Jetpack Compose, provides personalized c
 - **User Input:** Allows users to input pH and rainfall data for precise crop recommendations.
 - **Cloud-based Crop Recommendations:** Connects to a cloud service using Retrofit to fetch crop recommendations based on collected data.
 
+## Future Scope
+- [ ] Multi-language support.
+- [ ] Crop Encyclopedia.
+- [ ] Community chat inside the app.
+
 ## Libraries Used
 
 - **Retrofit:** For making API calls to the cloud service.
