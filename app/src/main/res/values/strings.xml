@@ -1,3 +1,53 @@
 <resources>
     <string name="app_name">Agro Weather Tip</string>
+    <string name="web_client_id" translatable="false">726307532326-p8fa5bdkrggrrl4ode7lq5npi6fcglhi.apps.googleusercontent.com</string>
+
+    <!-- Home Screen-->
+    <string name="homescreen_goodmorning">Good Morning!</string>
+    <string name="homescreen_goodafternoon">Good Afternoon!</string>
+    <string name="homescreen_goodevening">Good Evening!</string>
+    <string name="homescreen_goodnight">Good Night!</string>
+    <string name="homescreen_getstarted">Get Started</string>
+    <string name="homescreen_getcrop_btn">Get Crop</string>
+    <string name="homescreen_agrona_btn">Agrona</string>
+    <string name="homescreen_community_btn">Community</string>
+
+    <!-- Get Crop Screen-->
+    <string name="getcropscreen_get_crop">Get Crop</string>
+    <string name="getcropscreen_go_back_to_homescreen">Go back to homescreen</string>
+    <string name="getcropscreen_ph_label">pH of the soil</string>
+    <string name="getcropscreen_nitrogen_label">Nitrogen(N) of the soil</string>
+    <string name="getcropscreen_phosphorus_label">Phosphorus(P) of the soil</string>
+    <string name="getcropscreen_potassium_label">Potassium(K) of the soil</string>
+    <string name="getcropscreen_rainfall_label">Rainfall</string>
+    <string name="getcropscreen_how_to_find_ph">How to find pH ?</string>
+    <string name="getcropscreen_light">Light</string>
+    <string name="getcropscreen_moderate">Moderate</string>
+    <string name="getcropscreen_high">High</string>
+    <string name="getcropscreen_get">Get</string>
+    <string name="getcropscreen_no_internet_connection">No internet connection. Please check your network.</string>
+    <string name="getcropscreen_enter_valid_ph">Enter a valid pH value</string>
+    <string name="getcropscreen_enter_valid_n">Enter a valid N value</string>
+    <string name="getcropscreen_enter_valid_p">Enter a valid P value</string>
+    <string name="getcropscreen_enter_valid_k">Enter a valid K value</string>
+
+    <!-- Crop Screen -->
+    <string name="cropscreen_loading_message">Loading, please wait...</string>
+    <string name="cropscreen_go_back_to_get_crop_screen">Go back to get crop screen</string>
+    <string name="cropscreen_your_top_crop">Your Top Crop</string>
+    <string name="cropscreen_temperature">Temperature</string>
+    <string name="cropscreen_humidity">Humidity</string>
+    <string name="cropscreen_click_to_see_more">Click to see more</string>
+    <string name="cropscreen_swipe_up">Swipe Up</string>
+
+    <!-- Top Crops Screen -->
+    <string name="topcropscreen_top_10_crops">Top 10 Crops for you</string>
+
+    <!-- Chatbot Screen -->
+    <string name="chatbotscreen_ama">Hello! Ask me anything.</string>
+    <string name="chatbotscreen_message">Message...</string>
+
+    <!-- Community Screen -->
+    <string name="communityscreen_title">AWT Community</string>
+    <string name="communityscreen_message">Message...</string>
 </resources>

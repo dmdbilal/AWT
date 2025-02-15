@@ -7,6 +7,9 @@ import okhttp3.RequestBody
 import okhttp3.Response
 
 class CropJsonTask(
+    private val N: Float,
+    private val P: Float,
+    private val K: Float,
     private val temperature: Float,
     private val humidity: Float,
     private val ph: Float,
@@ -18,14 +21,17 @@ class CropJsonTask(
         val baseUrl = "https://agro-weather-tip-aakm.onrender.com/predict"
         val client = OkHttpClient()
         val requestBody: String = "{\n" +
+                "    \"N\": $N,\n" +
+                "    \"P\": $P,\n" +
+                "    \"K\": $K,\n" +
                 "    \"temperature\": $temperature,\n" +
                 "    \"humidity\": $humidity,\n" +
-                "    \"ph\": 5,\n" +
-                "    \"rainfall\": 100\n" +
+                "    \"ph\": $ph,\n" +
+                "    \"rainfall\": $rainfall\n" +
                 "}\n"
 
         try {
-            val urlStr = "$baseUrl?temperature=$temperature&humidity=$humidity&ph=$ph&rainfall=$rainfall"
+            val urlStr = "$baseUrl?N=$N&P=$P&K=$K&temperature=$temperature&humidity=$humidity&ph=$ph&rainfall=$rainfall"
 
             val request = Request.Builder()
                 .url(urlStr)

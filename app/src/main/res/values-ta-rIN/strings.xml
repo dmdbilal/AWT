@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Agro Weather Tip</string>
+
+    <!-- Home Screen-->
+    <string name="homescreen_goodmorning">காலை வணக்கம்!</string>
+    <string name="homescreen_goodafternoon">மதிய வணக்கம்!</string>
+    <string name="homescreen_goodevening">மாலை வணக்கம்!</string>
+    <string name="homescreen_goodnight">இனிய இரவு!</string>
+    <string name="homescreen_getstarted">தொடங்குங்கள்</string>
+    <string name="homescreen_getcrop_btn">பயிரை பெறவும்</string>
+    <string name="homescreen_agrona_btn">அக்ரோனா</string>
+    <string name="homescreen_community_btn">சமூகம்</string>
+
+    <!-- Get Crop Screen-->
+    <string name="getcropscreen_get_crop">பயிர் கிடைக்கும்</string>
+    <string name="getcropscreen_go_back_to_homescreen">முகப்புத்திற்கு திரும்பவும்</string>
+    <string name="getcropscreen_ph_label">மண்ணின் pH மதிப்பு</string>
+    <string name="getcropscreen_nitrogen_label">மண்ணின் நைட்ரஜன் (N)</string>
+    <string name="getcropscreen_phosphorus_label">மண்ணின் பாஸ்பரஸ் (P)</string>
+    <string name="getcropscreen_potassium_label">மண்ணின் பொட்டாசியம் (K)</string>
+    <string name="getcropscreen_rainfall_label">மழைவீழ்ச்சி</string>
+    <string name="getcropscreen_how_to_find_ph">pH மதிப்பை எப்படிச் சரிபார்ப்பது?</string>
+    <string name="getcropscreen_light">இலகுரக</string>
+    <string name="getcropscreen_moderate">மிதமான</string>
+    <string name="getcropscreen_high">கனமான</string>
+    <string name="getcropscreen_get">பெரு</string>
+    <string name="getcropscreen_no_internet_connection">இணைய இணைப்பு இல்லை. உங்கள் நெட்வொர்க்கை சரிபார்க்கவும்.</string>
+    <string name="getcropscreen_enter_valid_ph">சரியான pH மதிப்பை உள்ளிடவும்</string>
+    <string name="getcropscreen_enter_valid_n">சரியான N மதிப்பை உள்ளிடவும்</string>
+    <string name="getcropscreen_enter_valid_p">சரியான P மதிப்பை உள்ளிடவும்</string>
+    <string name="getcropscreen_enter_valid_k">சரியான K மதிப்பை உள்ளிடவும்</string>
+
+    <!-- Crop Screen -->
+    <string name="cropscreen_loading_message">ஏற்றுகிறது, காத்திருங்கள்...</string>
+    <string name="cropscreen_go_back_to_get_crop_screen">பயிர் திரைக்கு திரும்பிச் செல்லவும்</string>
+    <string name="cropscreen_your_top_crop">உங்கள் சிறந்த பயிர்</string>
+    <string name="cropscreen_temperature">வெப்பநிலை</string>
+    <string name="cropscreen_humidity">ஈரப்பதம்</string>
+    <string name="cropscreen_click_to_see_more">மேலும் காண கிளிக் செய்க</string>
+    <string name="cropscreen_swipe_up">மேலே ஸ்வைப் செய்க</string>
+
+    <!-- Top Crops Screen -->
+    <string name="topcropscreen_top_10_crops">உங்களுடைய முதல் 10 பயிர்கள்</string>
+
+    <!-- Chatbot Screen -->
+    <string name="chatbotscreen_ama">வணக்கம், நான் உங்களுக்கு எப்படி உதவ முடியும்.</string>
+    <string name="chatbotscreen_message">வினவல்...</string>
+
+    <!-- Community Screen -->
+    <string name="communityscreen_title">நம் சமூகம்</string>
+    <string name="communityscreen_message">செய்தி...</string>
+</resources>
